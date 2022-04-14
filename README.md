@@ -9,3 +9,8 @@ Fiz esse projeto utilizando 100% VueJS.
 
 O layout foi elaborado pela equipe Fasters
 
+## 💻 Apresentação do projeto funcionando
+
+<p align="center">
+https://www.loom.com/share/08079cac5e2d4a4e9d1e5ee9789249e4
+</p>
